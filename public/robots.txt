@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Sitemap: https://kaizas-fix-bug.vercel.app/sitemap.xml
